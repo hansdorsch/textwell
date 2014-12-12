@@ -17,6 +17,17 @@ __Wiederholen__. Ist der Name noch zu haben, geht es weiter.
 4.  Geben Sie ein Passwort ein – Google zeigt an, ob es sicher ist – und
 bestätigen Sie es. Tippen Sie dann auf __Weiter__.
 
+
+++++
+<remark>Hier hab' ich mal was ausprobiert</remark>
+++++
+
+[float]
+[[mit-welcher-software-läuft-mein-tablet]]
+Mit welcher Software läuft mein Tablet?
+++++++++++++++++++++++++++++++++++++
+
+
 Jetzt wird Ihr Konto eingerichtet und mit Ihrem Gerät verbunden
 (zwischendurch müssen Sie noch den Nutzungsbedingungen zustimmen). Im
 Anschluss können Sie ein Google+-Konto anlegen und Ihre
