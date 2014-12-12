@@ -1,0 +1,24 @@
+[[ein-neues-google-konto-anlegen]]
+Ein neues Google-Konto anlegen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ein neues Google-Konto richten Sie in den Einstellungen unter Konten und
+Synchronisierung ein. Tippen Sie auf Konto __hinzufügen __und dann auf
+__Google__.
+
+1.  Tippen Sie auf __Erstellen__.
+2.  Geben Sie Ihren Vornamen und Nachnamen ein und tippen Sie auf den
+Pfeil für __Weiter__. Wählen Sie im nächsten Schritt einen Namen für
+Ihre E-Mail-Adresse und tippen Sie nochmals auf __Weiter__. Google
+überprüft jetzt, ob der Name verfügbar ist.
+3.  Ist der Name nicht mehr verfügbar, können Sie ihn ändern oder durch
+einen der Vorschläge von Google ersetzen. Tippen Sie dann auf
+__Wiederholen__. Ist der Name noch zu haben, geht es weiter.
+4.  Geben Sie ein Passwort ein – Google zeigt an, ob es sicher ist – und
+bestätigen Sie es. Tippen Sie dann auf __Weiter__.
+
+Jetzt wird Ihr Konto eingerichtet und mit Ihrem Gerät verbunden
+(zwischendurch müssen Sie noch den Nutzungsbedingungen zustimmen). Im
+Anschluss können Sie ein Google+-Konto anlegen und Ihre
+Kreditkartendaten für den Google Play Store eingeben. Mehr zu diesen
+Themen finden Sie in den Kapiteln 3 und 6.
