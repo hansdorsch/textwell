@@ -19,8 +19,8 @@ bestätigen Sie es. Tippen Sie dann auf __Weiter__.
 
 
 [[mit-welcher-software-läuft-mein-tablet]]
-Mit welcher Software läuft mein Tablet?
-++++++++++++++++++++++++++++++++++++
+=== Mit welcher Software läuft mein Tablet?
+
 
 
 Jetzt wird Ihr Konto eingerichtet und mit Ihrem Gerät verbunden
