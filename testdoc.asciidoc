@@ -18,11 +18,6 @@ __Wiederholen__. Ist der Name noch zu haben, geht es weiter.
 bestätigen Sie es. Tippen Sie dann auf __Weiter__.
 
 
-++++
-<remark>Hier hab' ich mal was ausprobiert</remark>
-++++
-
-[float]
 [[mit-welcher-software-läuft-mein-tablet]]
 Mit welcher Software läuft mein Tablet?
 ++++++++++++++++++++++++++++++++++++
